@@ -1,0 +1,17 @@
+C:\Users\Samsung\source\repos\Selenium\Selenium\bin\Debug\Selenium.exe.config
+C:\Users\Samsung\source\repos\Selenium\Selenium\bin\Debug\Selenium.exe
+C:\Users\Samsung\source\repos\Selenium\Selenium\bin\Debug\Selenium.pdb
+C:\Users\Samsung\source\repos\Selenium\Selenium\bin\Debug\WebDriver.dll
+C:\Users\Samsung\source\repos\Selenium\Selenium\bin\Debug\WebDriver.Support.dll
+C:\Users\Samsung\source\repos\Selenium\Selenium\bin\Debug\WebDriver.pdb
+C:\Users\Samsung\source\repos\Selenium\Selenium\bin\Debug\WebDriver.xml
+C:\Users\Samsung\source\repos\Selenium\Selenium\bin\Debug\WebDriver.Support.pdb
+C:\Users\Samsung\source\repos\Selenium\Selenium\bin\Debug\WebDriver.Support.xml
+C:\Users\Samsung\source\repos\Selenium\Selenium\obj\Debug\Selenium.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\Selenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\Selenium\Selenium\obj\Debug\Selenium.csproj.CopyComplete
+C:\Users\Samsung\source\repos\Selenium\Selenium\obj\Debug\Selenium.exe
+C:\Users\Samsung\source\repos\Selenium\Selenium\obj\Debug\Selenium.pdb
+C:\Users\Samsung\source\repos\Selenium\Selenium\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Samsung\source\repos\Selenium\Selenium\bin\Debug\Login.mdf
+C:\Users\Samsung\source\repos\Selenium\Selenium\bin\Debug\Login_log.ldf
